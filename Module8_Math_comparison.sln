@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36105.17 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module8_Math_comparison", "Module8_Math_comparison\Module8_Math_comparison.csproj", "{701A4384-686C-4CD3-AF3C-CD9C717F9CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{701A4384-686C-4CD3-AF3C-CD9C717F9CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701A4384-686C-4CD3-AF3C-CD9C717F9CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701A4384-686C-4CD3-AF3C-CD9C717F9CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701A4384-686C-4CD3-AF3C-CD9C717F9CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E010EC05-5080-420C-8E1A-979F71C3EAFA}
+	EndGlobalSection
+EndGlobal
